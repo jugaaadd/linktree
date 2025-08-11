@@ -135,6 +135,19 @@
 	background-image:linear-gradient(to bottom,#00d64b,#00c244);
 }
 
+/* Upwork */
+.button-upwork {
+    --button-text: #ffffff;
+    --button-background: #14a800;
+}
+
+/* Gumroad */
+.button-gumroad {
+    --button-text: #000000;
+    --button-background: #dddddd;
+    --button-border: 1px solid #000000;
+}
+
 /* dev.to */
 .button-dev-to {
 	--button-text:#000000;
